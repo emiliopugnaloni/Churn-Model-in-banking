@@ -5,7 +5,7 @@ Steps:
 1) Create intra-months variables
 2) Create historical variables
 3) Run a Bayesian Optimization
-4) Train different LGBM models with different seeds and predict output
+4) Train different LGBM models with different seeds and predict the output
 5) Ensemble the predictions
 
 
