@@ -1,5 +1,5 @@
 # Churn-Model-in-banking
-Model used in the last competition of "Data Mining en Economica y Finanzas" subject in data science master in UBA.
+Model used in the last competition of "Data Mining en Economica y Finanzas" subject in the data science master at UBA.
 
 Steps:
 1) Create intra-months variables
